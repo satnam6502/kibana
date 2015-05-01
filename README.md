@@ -1,2 +1,2 @@
 # Kibana
-A vanilla Kibana 4 image produce for us in a blog article.
+A vanilla Kibana 4 image produced for use in a blog article.
